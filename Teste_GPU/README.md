@@ -1,3 +1,6 @@
+Código referencia do tutorial https://learnopengl.com
+
+
 ```
 sudo apt-get install cmake xorg-dev
 
